@@ -1,3 +1,3 @@
-module github.com/russross/blackfriday
+module github.com/siyaEng/blackfriday
 
 go 1.13
